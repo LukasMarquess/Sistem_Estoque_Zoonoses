@@ -7,7 +7,7 @@ Supervisor da Zoonoses
 - Como supervisor da zoonoses, eu quero ter controle sobre os usuários que vão acessar o sistema.
 - Como supervisor da zoonoses, eu quero fazer uma "crítica" para aqueles pedidos em caso de falta de estoque ou não ser conveniente com o local que o fez.
 - Como supervisor da zoonoses, eu quero aprovar ou não um pedido.
-- Como supervisor da zoonoses, eu quero fazer tudo o que o estoquista faz.
+- Como supervisor da zoonoses, eu quero ter acesso a todas as funcionalidades do estoquista.
 
 Estoquista
 
