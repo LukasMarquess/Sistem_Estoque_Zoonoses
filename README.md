@@ -23,5 +23,5 @@ Supervisor dos Núcleo
 
 ## Diagrama de Uso
 
-![Gato fofo](https://placekitten.com/300/200)
+![Diagrama de Uso](Images/Diagrama de Uso.jpeg)
 
