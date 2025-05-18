@@ -23,5 +23,5 @@ Supervisor dos Núcleo
 
 ## Diagrama de Uso
 
-![Diagrama de Uso](Images/Diagrama de Uso.jpeg)
+![Diagrama de Uso](Images/DiagramaUso.jpeg)
 
